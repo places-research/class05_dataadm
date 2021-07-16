@@ -1,6 +1,6 @@
 ---
-title: "Visualizando dados numéricos e categóricos"
-subtitle: "Encontro Síncrono 07"
+title: "Manipulação de dados - `dplyr`"
+subtitle: "Encontro Síncrono 08"
 author: 
   - <br></br>Renata Oliveira
 date: '16/07/21'
