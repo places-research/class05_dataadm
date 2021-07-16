@@ -1,6 +1,6 @@
 ---
-title: "Manipulação de dados - `dplyr`"
-subtitle: "Encontro Síncrono 08"
+title: "ggplot"
+subtitle: "Mais sobre gráficos"
 author: 
   - <br></br>Renata Oliveira
 date: '16/07/21'
