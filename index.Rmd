@@ -93,6 +93,7 @@ xaringanExtra::use_extra_styles(
 ```
 
 
+
 class: center, middle
 
 ## Retrospecto
