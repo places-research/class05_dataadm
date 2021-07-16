@@ -1,9 +1,9 @@
 ---
 title: "Visualizando dados numéricos e categóricos"
-subtitle: "Encontros Síncronos 04 e 05"
+subtitle: "Encontro Síncrono 07"
 author: 
   - <br></br>Renata Oliveira
-date: '12/02/21'
+date: '16/07/21'
 output:
   xaringan::moon_reader:
     lib_dir: libs
